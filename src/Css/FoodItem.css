@@ -1,0 +1,6 @@
+.FoodItem-container{
+    border:2px solid white;
+}
+.FoodItem-container:hover{
+    border:2px solid black;
+}
